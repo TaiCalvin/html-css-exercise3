@@ -3,6 +3,7 @@
     border:	2px	solid	cornflowerblue;
     margin:	5px;
     padding:	3px;
+    font-size: 24px;
 }
 /*	body	takes	up	full	viewport	and	extends	all	the	way	to	the	edges.	*/
 html,	body	{
@@ -11,6 +12,7 @@ html,	body	{
     border:	none;
 }
 h1 {
+    font-size: 40px;
     width: 50%;
 }
 body	{
